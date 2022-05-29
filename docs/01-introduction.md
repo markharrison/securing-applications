@@ -7,7 +7,7 @@ sidebar_label: 'Introduction'
 
 # Securing Applications
 
-![](images/01-introduction.png)
+![](images/01-introduction2.png)
 
 
 Below is the content from my Microsoft Build 2022 session on 'Securing Applications'.  I only had 15 minutes allocated to speak - this is what I squeezed in and delivered ... 
