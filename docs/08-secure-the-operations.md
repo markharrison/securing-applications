@@ -7,7 +7,7 @@ slug: /secure-the-operations
 
 ![](images/08-secure-the-operations.png)
 
-Operations are responsible for managaing the live environments - their duties can be summarised as Protect | Detect | Respond. 
+Operations are responsible for managing the live environments - their duties can be summarised as Protect | Detect | Respond. 
 It is important that response actions are scripted and so can be triggered as needed – as opposed to having to think and act  on the fly / under the pressure of a live incident.
 
 They must monitor everything that is happening – and should be looking for the unexpected events or failures … and should it happen implement incident response protocols to take the appropriate preventative measures or contain any damage.

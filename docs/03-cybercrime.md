@@ -9,7 +9,7 @@ slug: /cybercrime
 
 Cybercrime is a global threat and huge industry.  
 
-Bad actors will attack organisations of any size and whatever their purpose.   In most cases the motivation is finacial gain - but some have political objectives and others just enjoy the challenge of causing mahem / getting publicity.
+Bad actors will attack organisations of any size and whatever their purpose.   In most cases the motivation is financial gain - but some have political objectives and others just enjoy the challenge of causing mayhem / getting publicity.
 
 Exploits are traded on the dark web at low cost, enabling less skilled people to be involved in malicious activity and so swelling the number of attacks.
 

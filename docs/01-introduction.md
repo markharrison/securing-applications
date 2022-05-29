@@ -10,7 +10,7 @@ sidebar_label: 'Introduction'
 ![](images/01-introduction.png)
 
 
-This document is based on the content from my Microsoft Build 2022 session on 'securing applications'.
+Below is the content from my Microsoft Build 2022 session on 'Securing Applications'.  I only had 15 minutes allocated to speak - this is what I squeezed in and delivered ... 
 
 As organisations navigate digital transformation – there is no topic more important than defending yourself from attack.
 

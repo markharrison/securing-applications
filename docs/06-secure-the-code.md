@@ -10,7 +10,7 @@ slug: /secure-the-code
 
 This is about your code and external code – namely open source.
 
-Use code scanning tools to ensure submitted code is high quality, safe and reliable – and conforms to best practice.  ie doing automated code reviews – that previously peers would have done.
+Use code scanning tools to ensure submitted code is high quality, safe and reliable – and conforms to best practice.  i.e. doing automated code reviews – that previously peers would have done.
 
 Static code analysis tools helps identify areas in which areas of the code under analysis is suspect and may be compromised
 
@@ -18,5 +18,5 @@ Secure your secrets and put in the source code.   Once application source code i
 
 Software Composition Analysis tools should be employed to analyse the dependency graph and keep an inventory of third-party components being used to build applications. More on this later when we discusss the [Software Supply Chain](./10-software-supply-chain.md).
 
-For private development store source code in well-secured code repositories. Fully understand your branch management so you know what code is in dev / test / production.  And have processes for hotfixes .
+For private development store source code in well-secured code repositories. Fully understand your branch management so you know what code is in dev / test / production.  And have processes for hotfixes.
 

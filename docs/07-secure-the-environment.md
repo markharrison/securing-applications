@@ -18,6 +18,6 @@ Policy services are used to centrally set guardrails throughout your resources t
 
 Network security controls / devices may be implemented to mitigate against various known attack vectors. Application security often involves discussion around networking such as firewalls / gateways / load balancers – and ensuring the infrastructure is locked down from certain types of network attacks.
 
-Ensure patching to ensure all known vulnerabilities in virtual machines / operating system instances are resolved. If using PaaS – like Azure AppService – then not an issue, and its handled automatically / transparently by the underlying system. But its still a relevant topic in some cloud-native services – such as if using Kubernetes. 
+Ensure patching to ensure all known vulnerabilities in virtual machines / operating system instances are resolved. If using PaaS – then not an issue, and its handled automatically / transparently by the underlying system. But its still a relevant topic in some cloud-native services – such as if using Kubernetes. 
 
  

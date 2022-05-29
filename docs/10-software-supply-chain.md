@@ -19,5 +19,5 @@ Software Composition Analysis tools should be employed to analyse the dependency
 - Alert when updated versions are available.
 - Accurately track the open source licensing conditions to fulfil all the legal requirements helping to avoid any unfortunate surprises … such as jeopardizing exclusive ownership over proprietary code.
 
-Such tools can help software vendors document their Software Bill of Materials (SBOM) which lists any components, libraries and tools used.   There has been discussion that future ligislation may force software companies to make SBOM declarations public.
+Such tools can help software vendors document their Software Bill of Materials (SBOM) which lists any components, libraries and tools used.   There has been discussion that future legislation may force software companies to make SBOM declarations public.
 
