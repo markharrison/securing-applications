@@ -17,8 +17,8 @@ It is often the case that exploiting just one vulnerability can open the door an
 
 Bad actors do bad things:
 
-- In many cases it may cause severe financial impact (for example - loss of customer trust, lost of intellectual property, severe compliancy fines, corrupted data ) .
-- In the worst case can cause business ruin.
+- In many cases it will cause severe financial impact (for example - loss of customer trust, loss of intellectual property, severe compliancy fines, corrupted data ) .
+- In the worst case will cause business ruin.
 - In the most catastrophic case, a malicious cyber-attack will cause loss of life.
 
 
