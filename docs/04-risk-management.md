@@ -29,5 +29,5 @@ We can reduce risk – by doing the right things and this breaks down into four 
 - Secure by Design. 
 - Secure the Code.
 - Secure the Environment.
-- Secure the operations.
+- Secure the Operations.
 
