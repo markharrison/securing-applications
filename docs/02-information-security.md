@@ -18,7 +18,7 @@ There are three things that are at the core of infosec – these are:
 - Availability - making sure that data is available when and where it is rightly needed.
 
 And whilst infosec is often associated with defending against malicious attackers – it also needs to consider other types of events that can cause loss, 
-such as ‘acts of gods’ – for example, a lightning storm which might cause a power outage, and bring down systems / corrupt data 
+such as ‘acts of gods’ – for example, a lightning storm which might cause a power outage, and bring down systems / corrupt data.
 
 Its also about making sure everyone does the right things and those things right - for example, there is no point having a manual backup policy if people aren't doing it regularly in accordance with the defined schedule.
 
